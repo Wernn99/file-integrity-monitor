@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules/
+
+# Local databases / baseline files
+fim_baseline.json
+
+# Log files
+*.log
+
+# OS metadata files
+.DS_Store
+Thumbs.db

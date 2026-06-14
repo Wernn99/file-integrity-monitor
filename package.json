@@ -1,0 +1,20 @@
+{
+  "name": "file-integrity-monitor",
+  "version": "1.0.0",
+  "description": "A lightweight, zero-dependency File Integrity Monitor in Node.js",
+  "main": "fim.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test_fim.js"
+  },
+  "keywords": [
+    "security",
+    "cybersecurity",
+    "file-integrity-monitor",
+    "fim",
+    "sha256",
+    "integrity"
+  ],
+  "author": "",
+  "license": "MIT"
+}
